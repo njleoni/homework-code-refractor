@@ -14,4 +14,4 @@ https://njleoni.github.io/homework-code-refractor/
 
 ## Screenshot
 
-https://github.com/njleoni/homework-code-refractor/blob/master/01-html-css-git-homework-demo.png
+![Screenshot](/01-html-css-git-homework-demo.png)

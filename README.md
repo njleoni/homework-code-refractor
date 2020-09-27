@@ -12,4 +12,6 @@ The CSS file will get appropriate updates to reflect the semantic element update
 
 https://njleoni.github.io/homework-code-refractor/
 
-## Screenshot of
+## Screenshot
+
+https://github.com/njleoni/homework-code-refractor/blob/master/01-html-css-git-homework-demo.png
